@@ -1,4 +1,4 @@
-#Gotta Catch Em All
+# Gotta Catch Em All
 
 You're playing your favorite video game: Pekómon!
 The objective of the game is, of course, to "Catch Them All".
